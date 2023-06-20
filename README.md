@@ -10,5 +10,6 @@ moreover, you can learn oral expression by reverse way
 
 ![image](https://github.com/Dianli97/Flashcard_app/assets/136307555/8b2a9f61-3d79-4348-bb87-1aae56fe3062)
 
+I also upload an exe version of this app, you can download it to use directly.
 I have no idea if this kind of language learning strategy already exist, but I conclue it on my own, then I want to share this strategy and this app to anyone who want to learn foreign languages.
 Feel free to use it. If there is any problem or any contact request, send mail to: tenri.coding@gmail.com
